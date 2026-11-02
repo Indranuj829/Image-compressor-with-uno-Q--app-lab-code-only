@@ -1,0 +1,6 @@
+name: UNO Q image compresser
+description: ""
+ports:
+- 5001
+bricks: []
+icon: 😀
